@@ -10,7 +10,7 @@ Before re-training I ran my own business as an electrical installation services 
 ***
 # Projects 
 
-[up](#tahir)
+[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 Project | Demo | Description | Development Technologies Used | Testing Technologies
 ---|---|---|---|---
@@ -20,14 +20,14 @@ Project | Demo | Description | Development Technologies Used | Testing Technolog
 
 ***
 # Skills 
-[up](#tahir raza)
+[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 - **Communication** - Each day over the last 12 weeks, I have been pair programing or working in Agile team of 3-4 people
 - **Fast and Addaptable** - Whilst at Northcoders I have been challenged to both learn new tecnologies and complete the sprint in that, which vastly expand my learning and improve the adaptability. Final project is another showcase for this in which I have learned firebase and implemented to the project. Please view my [Projects](projects).
 - **Analytical thinker / Problem Solver** - Having taken some complex  challenges, I have greatly expanded my analytical abilities. An example would be the [Northcoders News FrontEnd](https://github.com/najmi-smile/FE-FT-NC-News) project. Understanding and building involved diagramming, planning, discussions, prototyping and testing before the actual coding of the project.
 
 ***
 # Experience 
-[up](#tahir raza)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Interests](#interests)
 **Northcoders**
 Software Development Bootcamp (Nov 6/17 - Feb 2/18)
 
@@ -36,7 +36,7 @@ Electrical Instalation Contractor (2009 - Present)
 
 ***
 # Education 
-[up](#tahir raza)
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Interests](#interests)
 ## Northcoders Manchester (Nov 6/17 - Feb 2/18) ##
 
 - OOP, TDD, MVC
@@ -68,6 +68,6 @@ Electrical Instalation Contractor (2009 - Present)
 
 ***
 # Interests 
-[up](#tahir)
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education)
 - Cricket
 - Snookar
