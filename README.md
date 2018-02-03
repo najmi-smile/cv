@@ -36,11 +36,12 @@ Skills which I adhere from the work in the past, the social experience and also 
 
 ## Construction Industory ##
 **Electrical Instalation Contractor** (2009 - Present)
-Transferable Skills
-- Organisation: As on the construction site, work environment is collaborative and divided in teams of different professionals, so organization of the work is very important otherwise dependent teams run in chaos.
-- Team Work: This is very important skill which I think is very relavent to all walks of the industory
-- Time Mangement: Time is very critical in construction projects and also for the software development.
-- Deliverance: This is the very real product of all the above.
+
+### Transferable Skills ###
+- ***Organisation:*** As on the construction site, work environment is collaborative and divided in teams of different professionals, so organization of the work is very important otherwise dependent teams run in chaos.
+- ***Team Work:*** This is very important skill which I think is very relavent to all walks of the industory
+- ***Time Mangement:*** Time is very critical in construction projects and also for the software development.
+- ***Deliverance:*** This is the very real product of all the above.
 
 
 ***
