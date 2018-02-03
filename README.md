@@ -35,7 +35,7 @@ Electrical Instalation Contractor (2009 - Present)
 ***
 # Education
 
-##Northcoders Manchester (Nov 6/17 - Feb 2/18)##
+## Northcoders Manchester (Nov 6/17 - Feb 2/18) ##
 
 - OOP, TDD, MVC
 - Agile
@@ -43,14 +43,14 @@ Electrical Instalation Contractor (2009 - Present)
 - DataBases, React
 - Mocha, Chai
 
-##Durham University##
-- **MSc in Software Engineering(Not Completed)**
+## Durham University ##
+**MSc in Software Engineering(Not Completed)**
 - Java
 - Project Managment
 - Ruby on rails(Web Technologies)
 
 
-##Alama Iqbal University Islamabad (1999-2004)##
+## Alama Iqbal University Islamabad (1999-2004) ##
 
 **BCS(Bachlor of Computer Science)**
 - C++, Cobol, VB, Pascal
