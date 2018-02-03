@@ -6,6 +6,8 @@ I am Full Stack Developer seeking a role where I can learn something new every d
 
 I am very passionate about technology and love to be challenged, web development to me is the perfect combination of the two.
 
+I'm self motivated, driven and has the capacity to deliver on time.
+
 Before re-training I ran my own business as an electrical installation services for construction industory.
 ***
 # Projects 
