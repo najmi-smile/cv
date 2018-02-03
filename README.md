@@ -52,7 +52,7 @@ Electrical Instalation Contractor (2009 - Present)
 
 **Alama Iqbal University Islamabad** (1999-2004)
 
-- *BCS(Bachlor of Computer Science)*
+- ***BCS(Bachlor of Computer Science)***
 - C++, Cobol, VB, Pascal
 - Computer Concepts & Architecture
 - Operating System
