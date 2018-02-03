@@ -21,6 +21,7 @@ Project | Demo | Description | Development Technologies Used | Testing Technolog
 ***
 # Skills 
 [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+
 Skills which I adhere from the work in the past, the social experience and also firmly belive upon are:
 - **Communication** - Each day over the last 12 weeks, I have been pair programing or working in Agile team of 3-4 people
 - **Fast and Addaptable** - Whilst at Northcoders I have been challenged to both learn new tecnologies and complete the sprint in that, which vastly expand my learning and improve the adaptability. Final project is another showcase for this in which I have learned firebase and implemented to the project. Please view my [Projects](projects).
