@@ -44,6 +44,7 @@ Electrical Instalation Contractor (2009 - Present)
 - Javascript, Nodejs, Express
 - DataBases, React
 - Mocha, Chai
+- HTML, CSS
 
 ## Durham University ## 
 **MSc in Software Engineering(Not Completed)**
