@@ -1,6 +1,6 @@
 # Tahir Raza
 
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 ***
 I am Full Stack Developer seeking a role where I can learn something new every day. I taught myself to code in last year or so and enjoyed it so much that I changed career and re-trained at Northcoders.
 
@@ -27,7 +27,7 @@ Project | Demo | Description | Development Technologies Used | Testing Technolog
 
 ***
 # Experience 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Interests](#interests)
 **Northcoders**
 Software Development Bootcamp (Nov 6/17 - Feb 2/18)
 
@@ -36,7 +36,7 @@ Electrical Instalation Contractor (2009 - Present)
 
 ***
 # Education 
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests)
 ## Northcoders Manchester (Nov 6/17 - Feb 2/18) ##
 
 - OOP, TDD, MVC
@@ -69,6 +69,6 @@ Electrical Instalation Contractor (2009 - Present)
 
 ***
 # Interests 
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education)
+[Projects](#projects) | [Skills](#skills) |[Experience](#experience) | [Education](#education)
 - Cricket
 - Snookar
