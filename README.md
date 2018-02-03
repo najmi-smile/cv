@@ -46,7 +46,9 @@ Electrical Instalation Contractor (2009 - Present)
 **Durham University**
 - MSc in Software Engineering(Not Completed)
 -- Java
+
 -- Project Managment
+
 -- Ruby on rails(Web Technologies)
 
 
@@ -54,12 +56,21 @@ Electrical Instalation Contractor (2009 - Present)
 
 - BCS(Bachlor of Computer Science)
 -- C++, Cobol, VB, Pascal
+
 -- Computer Concepts & Architecture
+
 -- Operating System
+
 -- System Analysis & Design
+
 -- Data Structure
+
 -- Database Mangement System
+
 -- Data Communication & Network
+
 -- Basics Of Software Engineering
+
 -- Operations Reasearch
+
 -- Theory of Automata & Formal Languages
