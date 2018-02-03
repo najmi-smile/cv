@@ -8,8 +8,9 @@ I am very passionate about technology and love to be challenged, web development
 
 Before re-training I ran my own business as an electrical installation services for construction industory.
 ***
-# Projects  
-[up](#tahir raza)
+# Projects 
+
+[up](#tahir)
 
 Project | Demo | Description | Development Technologies Used | Testing Technologies
 ---|---|---|---|---
