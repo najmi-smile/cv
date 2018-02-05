@@ -18,7 +18,7 @@ Project | Demo | Description | Development Technologies Used | Testing Technolog
 ---|---|---|---|---
 [Northcoders News API](https://github.com/najmi-smile/BE-FT-northcoders-news) | [Web Link](https://quiet-shore-88770.herokuapp.com/) | RESTFull API to serve the data | Nodejs, Express, MogoDB | Chai, Mocha
 [Northcoders News FrontEnd](https://github.com/najmi-smile/FE-FT-NC-News) | [WebLink](https://tahir-news-api.herokuapp.com/) | A website which serve the data to clients | React | None
-[NC Buddy]() | [Final Project]() | A fullstack web project build by the team of 4 | React, Firebase | None
+[NC Buddy](https://github.com/najmi-smile/NC-Companion) | [Final Project](https://nc-buddy.herokuapp.com/) | A fullstack web project build by the team of 4 | React, Firebase | None
 
 ***
 # Skills 
