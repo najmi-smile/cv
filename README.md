@@ -1,6 +1,6 @@
 # Tahir Raza
 
-[Experience](#experience) | [Projects and Skills](#projects) | [Education](#education) | [Interests](#interests)
+[Experience](#experience) | [Projects] and Skills(#projects and skills) | [Education](#education) | [Interests](#interests)
 ***
 I am Full Stack Developer seeking a role where I can learn something new every day. I taught myself to code in last year or so and enjoyed it so much that I changed career and re-trained at Northcoders.
 
@@ -10,16 +10,14 @@ I'm self motivated, driven and has the capacity to deliver on time.
 
 Before re-training I ran my own business as an electrical installation services for construction industory.
 ***
-
 # Experience 
-[Projects and Skills](#projects) | [Education](#education) | [Interests](#interests)
+[Projects] and Skills](#projects) | [Education](#education) | [Interests](#interests)
 
 ## Northcoders ##
 
-**Software Development Bootcamp** (Nov 6/17 - Feb 2/18) 
-
+Software Development Bootcamp attended from Nov 6 2017 to Feb 02 2018. It was a rigorous and comprehensive training to the folloowing asspects:
 - OOP, TDD, MVC
-- Agile
+- Agile methodology
 - Javascript, Nodejs, Express
 - DataBases, React
 - Mocha, Chai
@@ -28,10 +26,10 @@ Before re-training I ran my own business as an electrical installation services 
 **Electrical Instalation Contractor** (2009 - Present)
 
 ### Transferable Skills ###
-- ***Organisation:*** As on the construction site, work environment is collaborative and divided in teams of different professionals, so organization of the work is very important otherwise dependent teams run in chaos.
-- ***Team Work:*** This is very important skill which I think is very relavent to all walks of the industory
-- ***Time Mangement:*** Time is very critical in construction projects and also for the software development.
-- ***Deliverance:*** This is the very real product of all the above.
+Some of transferable skills by working in the construction industory which I have applied during my training are:
+- ***Organisation and time management:*** As on the construction site, work environment is collaborative and divided in teams of different professionals, so organization of the work is very important otherwise dependent teams run in chaos. This really benefited me durring the training at northcoders as it was too comprehensive and need to take alot in comparatively less time.To achive this I organised a time chart for the traing,practice and reading material.
+- ***Team Work:*** I applied this skill in pair programming and it was proved to be an adventage as pairs have different problem solving approaches but previous experience of the team worling led me work more efficiently and productively on our sprints.
+- ***Deliverance:*** In software industory the biggest challenge is to deliver on time, on most of our sprint the work is done in such a way that a MVP will be deliver by the end of the sprint time 
 
 ***
 # Projects and Skills 
@@ -51,7 +49,7 @@ Skills which I adhere from the work in the past, the social experience and also 
 
 ***
 # Education 
-[Interests](#interests) | [Projects and Skills](#projects) | [Experience](#experience) 
+[Interests](#interests) | [Projects] and Skills(#projects) | [Experience](#experience) 
 ## Durham University ## 
 **MSc in Software Engineering(Not Completed)**
 - Java
@@ -73,6 +71,6 @@ Skills which I adhere from the work in the past, the social experience and also 
 
 ***
 # Interests 
-[Education](#education) | [Projects and Skills](#projects) | [Experience](#experience)
+[Education](#education) | [Projects] and Skills(#projects) | [Experience](#experience)
 - Cricket
 - Snooker
