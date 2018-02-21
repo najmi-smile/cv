@@ -10,6 +10,29 @@ I'm self motivated, driven and has the capacity to deliver on time.
 
 Before re-training I ran my own business as an electrical installation services for construction industory.
 ***
+<<<<<<< HEAD
+=======
+# Projects 
+
+[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+
+Project | Demo | Description | Development Technologies Used | Testing Technologies
+---|---|---|---|---
+[Northcoders News API](https://github.com/najmi-smile/BE-FT-northcoders-news) | [Web Link](https://quiet-shore-88770.herokuapp.com/) | RESTFull API to serve the data | Nodejs, Express, MogoDB | Chai, Mocha
+[Northcoders News FrontEnd](https://github.com/najmi-smile/FE-FT-NC-News) | [WebLink](https://ncoders-news.herokuapp.com/) | A website which serve the data to clients | React | None
+[NC Buddy](https://github.com/najmi-smile/NC-Companion) | [Final Project](https://nc-buddy.herokuapp.com/) | A fullstack web project build by the team of 4 | React, Firebase | None
+
+***
+# Skills 
+[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+
+Skills which I adhere from the work in the past, the social experience and also firmly belive upon are:
+- **Communication** - Each day over the last 12 weeks, I have been pair programing or working in Agile team of 3-4 people
+- **Fast and Addaptable** - Whilst at Northcoders I have been challenged to both learn new tecnologies and complete the sprint in that, which vastly expand my learning and improve the adaptability. Final project is another showcase for this in which I have learned firebase and implemented to the project. Please view my [Projects](projects).
+- **Analytical thinker / Problem Solver** - Having taken some complex  challenges, I have greatly expanded my analytical abilities. An example would be the [Northcoders News FrontEnd](https://github.com/najmi-smile/FE-FT-NC-News) project. Understanding and building involved diagramming, planning, discussions, prototyping and testing before the actual coding of the project.
+
+***
+>>>>>>> 87207d20dc16f441ca2bf87c99bdf3f5345b5069
 # Experience 
 [Projects and Skills](#projects and skills) | [Education](#education) | [Interests](#interests)
 
@@ -74,4 +97,8 @@ Skills which I adhere from the work in the past, the social experience and also 
 # Interests 
 [Education](#education) | [Projects and Skills](#projects and skills) | [Experience](#experience)
 - Cricket
+<<<<<<< HEAD
 - Snooker
+=======
+- Snookar
+>>>>>>> 87207d20dc16f441ca2bf87c99bdf3f5345b5069
