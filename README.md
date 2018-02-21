@@ -1,6 +1,6 @@
 # Tahir Raza
 
-[Experience](#experience) | [Projects and Skills](#projects and skills) | [Education](#education) | [Interests](#interests)
+[Experience](#experience) | [Projects and Skills](#projects) | [Education](#education) | [Interests](#interests)
 ***
 I am Full Stack Developer seeking a role where I can learn something new every day. I taught myself to code in last year or so and enjoyed it so much that I changed career and re-trained at Northcoders.
 
@@ -12,7 +12,7 @@ Before re-training I ran my own business as an electrical installation services 
 ***
 
 # Experience 
-[Projects and Skills](#projects and skills) | [Education](#education) | [Interests](#interests)
+[Projects and Skills](#projects) | [Education](#education) | [Interests](#interests)
 
 ## Northcoders ##
 
@@ -51,7 +51,7 @@ Skills which I adhere from the work in the past, the social experience and also 
 
 ***
 # Education 
-[Interests](#interests) | [Projects and Skills](#projects and skills) | [Experience](#experience) 
+[Interests](#interests) | [Projects and Skills](#projects) | [Experience](#experience) 
 ## Durham University ## 
 **MSc in Software Engineering(Not Completed)**
 - Java
@@ -73,6 +73,6 @@ Skills which I adhere from the work in the past, the social experience and also 
 
 ***
 # Interests 
-[Education](#education) | [Projects and Skills](#projects and skills) | [Experience](#experience)
+[Education](#education) | [Projects and Skills](#projects) | [Experience](#experience)
 - Cricket
 - Snooker
