@@ -1,6 +1,6 @@
 # Tahir Raza
 
-[Experience](#experience) | [Projects](#projects) and Skills | [Education](#education) | [Interests](#interests)
+[Experience](#experience) | [Projects and Skills](#projects_and_skills) | [Education](#education) | [Interests](#interests)
 ***
 I am Full Stack Developer seeking a role where I can learn something new every day. I taught myself to code in last year or so and enjoyed it so much that I changed career and re-trained at Northcoders.
 
